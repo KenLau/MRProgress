@@ -2,7 +2,7 @@
 //  MRProgress.h
 //  MRProgress
 //
-//  Created by Marius Rackwitz on 20.10.13.
+//  Created by Marius Rackwitz on 20.10.13. Forked by ken
 //  Copyright (c) 2013 Marius Rackwitz. All rights reserved.
 //
 
